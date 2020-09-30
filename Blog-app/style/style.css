@@ -106,7 +106,6 @@ main {
 
 .post-image {
     flex-basis: 40%;
-    background-image: url("../assets/desk-test1.jpg");
     background-size: cover;
     background-position: center;
 }
