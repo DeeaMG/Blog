@@ -1,0 +1,25 @@
+#individual-post-title {
+    text-align: center;
+    font-size: 2em;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#individual-post-date {
+    border-top: 1px solid #e9e4e4;
+    border-bottom: 1px solid #e9e4e4;
+    color: #adb5bd;
+    font-size: 20px;
+    padding-left: 16px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#individual-post-content {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 24px;
+    color: #495057;
+    line-height: 1.4;
+    font-size: 18px;
+}
